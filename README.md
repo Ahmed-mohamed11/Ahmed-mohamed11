@@ -6,7 +6,7 @@
 <br/>
 <br/>
 <br/>
-<img align="left" width="50%" height="190" src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-mohamed11&theme=default&hide_border=false"/>
+<img align="left" width="90%" height="190" src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-mohamed11&theme=default&hide_border=false"/>
 
 <br/>
 <br/>
