@@ -2,12 +2,10 @@
 
 # 📊 GitHub Stats:
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Ahmed-mohamed11&theme=default&hide_border=false&include_all_commits=false&count_private=false"/>
-<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-mohamed11&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+<img align="right" width="47%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-mohamed11&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 <br/>
 <img align="center" width="90%" height="190" src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-mohamed11&theme=default&hide_border=false"/>
 
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>
