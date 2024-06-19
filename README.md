@@ -2,10 +2,10 @@
 
 # 📊 GitHub Stats:
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Ahmed-mohamed11&theme=default&hide_border=false&include_all_commits=false&count_private=false"/>
-<img align="right" width="47%" height="205" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-mohamed11&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 <br/>
+<img align="right" width="47%" height="205" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-mohamed11&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 
-<img align="center" width="90%" height="190" src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-mohamed11&theme=default&hide_border=false"/>
+<img width="100%" height="190" src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-mohamed11&theme=default&hide_border=false"/>
 
 <br/>
 <br/>
@@ -24,13 +24,9 @@
 
 # 📚 Frameworks and Libraries
 <img align="left" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-<img align="left" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white"/>
-<br/>
 <img align="left" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
